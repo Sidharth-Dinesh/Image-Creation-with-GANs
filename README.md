@@ -1,1 +1,1 @@
-# Generative-Adversarial-Networks-GANs
+# Image Creation with GANs (Generative-Adversarial-Networks)
